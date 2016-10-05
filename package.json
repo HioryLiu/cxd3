@@ -1,15 +1,16 @@
 {
   "name": "cxd3",
-  "version": "1.8.4-dev",
+  "version": "0.0.1",
   "description": "A reusable charting library written in d3.js",
-  "url": "https://github.com/novus/nvd3",
-  "main": "build/nv.d3.js",
+  "url": "https://github.com/HioryLiu/cxd3",
+  "main": "build/cx.d3.js",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "build":"grunt production"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/novus/nvd3"
+    "url": "https://github.com/HioryLiu/cxd3"
   },
   "keywords": [
     "nvd3",
